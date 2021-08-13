@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Some challenges while building the app was getting android studio started. The videos that I followed was an older version of android studio so I had to figure some stuff out on my own.
 
 ## License
 
